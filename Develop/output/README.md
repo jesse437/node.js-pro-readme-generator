@@ -1,33 +1,36 @@
-#
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/MIT)
+  # API weather dashboard
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/MIT)
 
-## Description
+  ## Description  
+  User can input location or city and will be provide with a five day weather forcast.
 
-## Table of Contents (Optional)
+  ## Table of Contents (Optional)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-## Usage
-
-'''bash
-
+  ## Installation
+  using node
+  
+  ## Usage
+  '''bash
+    Please enter desired location or city in order to render the five day week forcast.
     '''
 
-## Credits
+  ## Credits
+  Myself and tutor
 
-## License
+  ## License 
+  Copyright (c) jesse437. All rights reserved.
+  
 
-Copyright (c) . All rights reserved.
+  ## Test 
+  N/A
 
-## Test
+  ## Questions?
+  GitHub [jesse437] (https://github.com/jesse437)
+  Reach out to me at - [jesse43798@gmail.com](mailto://jesse43798@gmail.com)
 
-## Questions?
-
-GitHub [] (https://github.com/)
-Reach out to me at - [test@gmail.con](mailto://test@gmail.con)
+  
